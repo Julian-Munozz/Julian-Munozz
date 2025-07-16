@@ -5,7 +5,6 @@
 - 📝 Estoy empezando mi camino como desarrollador web Full Stack.
 - 📚 Aprendiendo poco a poco sobre programación y tecnología.
 - 🌱 Actualmente estudiando HTML y CSS.
-- 🤝 Me gustaría practicar y mejorar colaborando en proyectos sencillos.
 
 ### Tecnologías que estoy aprendiendo
 - HTML, CSS (aún aprendiendo)
